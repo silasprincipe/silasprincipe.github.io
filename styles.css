@@ -1,0 +1,162 @@
+/* css styles */
+
+.nav-link {
+    font-weight: 500;
+}
+
+.super-title {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1.2em;
+    width: 65%;
+    color: black;
+    /*color: #00337C;*/
+}
+
+.highlight-yellow {
+    background-color: #ffde59;
+    padding: 0 5px;
+    border-radius: 0px;
+}
+
+.mini-title {
+    font-size: 18px;
+    font-weight: 600;
+    width: 60%;
+    color: rgb(143, 143, 143); 
+}
+
+.basis-title {
+    font-size: 29px;
+    font-weight: 700;
+    color: black; 
+}
+
+.navbar-logo {
+    max-height: 40px;
+}
+
+.navbar-title {
+    visibility: hidden !important;
+}
+
+.blog-l-title {
+    font-size: 32px;
+    font-weight: 700;
+    text-decoration: none !important;
+}
+
+.blog-l-title-div {
+    margin-bottom: 25px;
+}
+
+#blog-listing-front a {
+    color: black !important;
+}
+
+#blog-listing-front a:hover {
+    color: #fce461 !important;
+}
+
+.blog-hr {
+    border-top: 2px solid !important;
+    opacity: 1 !important;
+}
+
+.blog-front-date {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.blog-category {
+    color: rgb(170, 170, 170);
+    border: 0.5px solid !important;
+    padding: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.blog-category:hover {
+    color: #fce461;
+}
+
+.reset-category {
+    color: rgb(170, 170, 170);
+    cursor: pointer;
+}
+
+.reset-category:hover {
+    color: #fce461;
+}
+
+.listing-category {
+    text-align: right;
+    justify-self: end; /* Align this grid item to the right */
+    justify-items: end;
+}
+
+.inline-link a {
+    text-decoration: underline;
+    font-weight: 400;
+    color: #00337C;
+}
+
+.inline-link a:hover {
+    text-decoration: underline;
+    font-weight: 400;
+    color: #447ed0;
+}
+
+
+/* Grad info */
+.grad-text {
+    font-size: smaller;
+}
+
+.grad-sub {
+    font-weight: 500;
+}
+
+.grad-year {
+    font-weight: 800;
+    color: black;
+    font-family: DM Mono, monospace;
+    /*color: #01337c;*/
+}
+
+/* Research */
+.research {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.research-title {
+    font-size: 21px;
+    font-weight: 800;
+    color: black;
+    font-family: DM Mono, monospace;
+}
+
+.research-top-1 {
+    padding: 10px;
+    position: relative;
+    min-height: 120px;
+    height: 100%;
+    background-color: #5dcad1;
+    font-size: 28px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    font-family: DM Mono, monospace;
+}
+
+.research-top-2 {
+    padding: 10px;
+    position: relative;
+    min-height: 120px;
+    height: 100%;
+    background-color: #2f5972;
+    font-size: 28px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    font-family: DM Mono, monospace;
+}

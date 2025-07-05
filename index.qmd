@@ -1,0 +1,50 @@
+---
+title: "Silas Principe"
+format:
+  html:
+    css: styles.css
+    embed-resources: true
+include-in-header:
+    - text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+    - material-symbols.html
+mainfont: DM Sans
+---
+
+
+::: {.super-title}
+I'm a <span class="highlight-yellow">marine biologist</span> studying the effects of <span class="highlight-yellow">climate change</span> on<br> species and ecosystems.
+:::
+
+<br><br>
+
+::: {.grid}
+
+::: {.g-col-6}
+I'm currently an associate researcher at the [Ocean Biodiversity Information System (OBIS)](https://obis.org/), part of IODE/IOC/UNESCO, where I contribute to the EU Horizon project [MPA Europe](https://mpa-europe.eu/). With the partners, our work package is generating species distribution models for over 12,000 marine species that occurs in European waters to support the prioritization analysis that will map the optimal locations for marine protected areas in Europe.
+
+My research interests are mainly on how climate change affects ecosystems, with experience in distribution modelling, thermal biology, and ecophysiology. Coding is an integral part of my work, mainly in R, but also Python. Check my [GitHub repository](http://github.com/silasprincipe).
+:::
+
+::: {.g-col-6}
+<span class="grad-year">2014</span> <span class="grad-sub">BSc Biological Sciences (Marine Biology)</span>
+<span class="grad-text">Universidade Estadual Paulista, Campus do Litoral Paulista. São Paulo, Brazil.</span>
+
+<span class="grad-year">2017</span> <span class="grad-sub">MSc Zoology</span>
+<span class="grad-text">Universidade Estadual Paulista, Campus de Botucatu. São Paulo, Brazil.</span>
+
+<span class="grad-year">2023</span> <span class="grad-sub">PhD Biological Oceanography</span>
+<span class="grad-text">Universidade de São Paulo, Instituto Oceanográfico. São Paulo, Brazil.</span>
+:::
+
+:::
+
+<br><br>
+
+<span class="basis-title">Contact</span>
+
+While I'm preparing a new site, you can check my research on [Google Scholar](https://scholar.google.co.uk/citations?user=WEHb5d0AAAAJ&hl=en) or contact me through **s.principe[at]unesco.org**.
+
+<br>
