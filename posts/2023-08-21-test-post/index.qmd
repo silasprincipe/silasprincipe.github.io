@@ -1,0 +1,16 @@
+---
+title: "Tendências de marketing digital para 2022"
+description: |
+  
+author:
+  - name: Silas C. Principe 
+    orcid: 0000-0002-8059-6304
+    url: https://silasprincipe.github.io/
+    affiliation: OBIS
+    affiliation-url: https://obis.org/ 
+date: 2023-08-21
+citation: 
+  url: https://silasprincipe.github.io/posts/2023-08-21-test-post/
+#bibliography: biblio.bib # If bibliography is added
+categories: []
+---

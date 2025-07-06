@@ -1,0 +1,34 @@
+---
+title: "Differential effects of water loss and temperature increase on the physiology of fiddler crabs from distinct habitats"
+description: |
+  Temperature is one of the main environmental constraints to organism distribution, affecting physiology and survival. Organisms that inhabit the intertidal zone are exposed to temperature variation and, with climate change, they should face different conditions which include higher temperatures, leading to higher rates of water loss through evaporation and then fitness reduction or mortality. Here we tested the effects of desiccation and increased temperature in two fiddler crabs species that occupy distinct habitats in regard to vegetation cover and position on the intertidal zone and thus may respond differently to these stressors. _Leptuca thayeri_, which is restricted to the mid-tide zone and vegetated areas, had higher desiccation and mortality rates than _Minuca rapax_, a generalist species, when exposed to desiccation for 120 min. Also, compared to _M.rapax_, _L. thayeri_ had a more permeable carapace. Temperature elevation of 10 °C and 20 °C for 72 h caused no mortality in either species. However, there were changes in hemolymph osmolality and muscle hydration in both species. _Leptuca thayeri_ osmolality was low in the intermediate temperature, suggesting that at this temperature this species has a better salt secretion capability. _Minuca rapax_, however, had an increase in hemolymph osmolality at the highest temperatures with no LDH increase, which indicates that osmotic control in this species is more sensitive to temperature increase. Our results show that _L. thayeri_ suffers more from desiccation, due to a more permeable carapace. However, because of this higher permeability _L. thayeri_ is capable of lowering its temperature more than _M.rapax_. As temperature elevation produces great physiological changes in _M.rapax_, a reduced ability to keep a low temperature can be an issue for this species if temperature increases. However, higher water loss to keep body temperature low may decrease _L. thayeri_ survivability in the same scenario.
+author:
+  - name: Silas C. Principe 
+    orcid: 0000-0002-8059-6304
+    url: https://silasprincipe.github.io/
+    affiliation: Instituto de Biociências, Universidade Estadual Paulista (UNESP), Campus do Litoral Paulista, Brazil
+  - name: Alessandra Augusto
+    affiliation: Instituto de Biociências, Universidade Estadual Paulista (UNESP), Campus do Litoral Paulista, Brazil
+  - name: Tânia M. Costa
+    affiliation: Instituto de Biociências, Universidade Estadual Paulista (UNESP), Campus do Litoral Paulista, Brazil
+date: 2018-04-01
+citation: 
+  url: https://doi.org/10.1016/j.jtherbio.2018.02.004
+categories: [Thermal biology, Fiddler crabs, Climate change]
+---
+
+::: {.grid}
+
+::: {.g-col-7}
+::: {.pub-links}
+### Explore more
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 15 15"><path fill="currentColor" d="M2.5 6.5V6H2v.5zm4 0V6H6v.5zm0 4H6v.5h.5zm7-7h.5v-.207l-.146-.147zm-3-3l.354-.354L10.707 0H10.5zM2.5 7h1V6h-1zm.5 4V8.5H2V11zm0-2.5v-2H2v2zm.5-.5h-1v1h1zm.5-.5a.5.5 0 0 1-.5.5v1A1.5 1.5 0 0 0 5 7.5zM3.5 7a.5.5 0 0 1 .5.5h1A1.5 1.5 0 0 0 3.5 6zM6 6.5v4h1v-4zm.5 4.5h1v-1h-1zM9 9.5v-2H8v2zM7.5 6h-1v1h1zM9 7.5A1.5 1.5 0 0 0 7.5 6v1a.5.5 0 0 1 .5.5zM7.5 11A1.5 1.5 0 0 0 9 9.5H8a.5.5 0 0 1-.5.5zM10 6v5h1V6zm.5 1H13V6h-2.5zm0 2H12V8h-1.5zM2 5V1.5H1V5zm11-1.5V5h1V3.5zM2.5 1h8V0h-8zm7.646-.146l3 3l.708-.708l-3-3zM2 1.5a.5.5 0 0 1 .5-.5V0A1.5 1.5 0 0 0 1 1.5zM1 12v1.5h1V12zm1.5 3h10v-1h-10zM14 13.5V12h-1v1.5zM12.5 15a1.5 1.5 0 0 0 1.5-1.5h-1a.5.5 0 0 1-.5.5zM1 13.5A1.5 1.5 0 0 0 2.5 15v-1a.5.5 0 0 1-.5-.5z"/></svg> Publication](https://doi.org/10.1016/j.jtherbio.2018.02.004)
+:::
+:::
+
+::: {.g-col-5 #pub-figure}
+![](thermal-bio-pub-header.jpg)
+:::
+
+:::

@@ -1,0 +1,34 @@
+---
+title: "Point-of-care testing for measuring haemolymph glucose in invertebrates is not a valid method"
+description: |
+  Blood glucose is widely used as a physiological parameter for vertebrates and invertebrates. However, its measurement in the field is often difficult due to the need for expensive and non-portable equipment. Point-of-care (POC) devices, originally intended for human use, are increasingly being used for measuring blood parameters of animals in the field. In this regard, POC glucose meters are becoming valuable tools for conservation physiologists, as glucose can be a useful indicator of stress response. In invertebrates, the use of POC glucose meters is still scarce, and no study yet has evaluated their usability in crustaceans and molluscs. We tested if a POC device can be used to measure haemolymph glucose in two widely used models, _Leptuca thayeri_ and _Perna perna_, compared with a standard laboratory method. The device was unable to measure glucose in _P. perna_ haemolymph due to equipment inaccuracy and low glucose concentration in this species (10.13 ± 6.25 mg/dL). Additionally, despite the device being capable of measuring glucose in _L. thayeri_ haemolymph, Bland–Altman plots showed a strong bias and wide limits of agreement, and Lin's concordance correlation coefficient showed a weak concordance between methods. When simulating experimental conditions, POC results differed from those found using the standard method. We conclude that POC glucose meters are unsuitable for assessing glucose in mussels and should not be used in crabs as results are inaccurate.
+author:
+  - name: Silas C. Principe 
+    orcid: 0000-0002-8059-6304
+    url: https://silasprincipe.github.io/
+    affiliation: Instituto de Biociências, Universidade Estadual Paulista (UNESP), Campus do Litoral Paulista, Brazil
+  - name: Alessandra Augusto
+    affiliation: Instituto de Biociências, Universidade Estadual Paulista (UNESP), Campus do Litoral Paulista, Brazil
+  - name: Tânia M. Costa
+    affiliation: Instituto de Biociências, Universidade Estadual Paulista (UNESP), Campus do Litoral Paulista, Brazil
+date: 2019-01-01
+citation: 
+  url: https://doi.org/10.1093/conphys/coz079
+categories: [Thermal biology, Fiddler crabs, Methods]
+---
+
+::: {.grid}
+
+::: {.g-col-7}
+::: {.pub-links}
+### Explore more
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 15 15"><path fill="currentColor" d="M2.5 6.5V6H2v.5zm4 0V6H6v.5zm0 4H6v.5h.5zm7-7h.5v-.207l-.146-.147zm-3-3l.354-.354L10.707 0H10.5zM2.5 7h1V6h-1zm.5 4V8.5H2V11zm0-2.5v-2H2v2zm.5-.5h-1v1h1zm.5-.5a.5.5 0 0 1-.5.5v1A1.5 1.5 0 0 0 5 7.5zM3.5 7a.5.5 0 0 1 .5.5h1A1.5 1.5 0 0 0 3.5 6zM6 6.5v4h1v-4zm.5 4.5h1v-1h-1zM9 9.5v-2H8v2zM7.5 6h-1v1h1zM9 7.5A1.5 1.5 0 0 0 7.5 6v1a.5.5 0 0 1 .5.5zM7.5 11A1.5 1.5 0 0 0 9 9.5H8a.5.5 0 0 1-.5.5zM10 6v5h1V6zm.5 1H13V6h-2.5zm0 2H12V8h-1.5zM2 5V1.5H1V5zm11-1.5V5h1V3.5zM2.5 1h8V0h-8zm7.646-.146l3 3l.708-.708l-3-3zM2 1.5a.5.5 0 0 1 .5-.5V0A1.5 1.5 0 0 0 1 1.5zM1 12v1.5h1V12zm1.5 3h10v-1h-10zM14 13.5V12h-1v1.5zM12.5 15a1.5 1.5 0 0 0 1.5-1.5h-1a.5.5 0 0 1-.5.5zM1 13.5A1.5 1.5 0 0 0 2.5 15v-1a.5.5 0 0 1-.5-.5z"/></svg> Publication](https://doi.org/10.1093/conphys/coz079)
+:::
+:::
+
+::: {.g-col-5 #pub-figure}
+![](gluc-image1.jpg)
+:::
+
+:::

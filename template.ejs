@@ -1,0 +1,23 @@
+```{=html}
+<div id="blog-listing-front">
+<% for (const item of items) { %>
+  <div>
+    <div class="blog-l-title-div">
+        <a href="<%- item.href %>" class="blog-l-title"><%= item.title %></a><br/>
+    </div>
+    <div class="grid">
+        <div class="g-col-6 blog-front-date">
+            | <%= item.date.toUpperCase() %>
+        </div>
+        <div class="g-col-6">
+            <!-- <%= item.categories %> -->
+            <% for (const category of item.categories) { %>
+            <button onclick="window.quartoListingCategory('<%=category%>'); return false;"><%= category %></button>
+            <% } %>
+        </div>
+    </div>
+    <hr class="blog-hr">
+  </div>
+<% } %>
+</div>
+```

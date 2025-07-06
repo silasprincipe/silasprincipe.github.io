@@ -1,0 +1,30 @@
+---
+title: "Thermal biology of fiddler crabs"
+description: |
+  Marine organisms are facing unprecedent challenges due to climate change. Understand how those changes, especially temperaure increase, will affect organisms is essential. In this project we used an intertidal organism, which is in the interface between land and ocean, to study the effects of temperature increase and dessication on the organismal physiology. We compared the effects in two fiddler crab species which inhabits distinct areas of the mangrove (one more exposed to desiccation stress and the other in shadowed areas). We are also employing new techiniques to understand how those organisms deal with thermal control.
+author:
+  - name: Silas C. Principe 
+    orcid: 0000-0002-8059-6304
+    url: https://silasprincipe.github.io/
+    affiliation: Ocean Biodiversity Information System (OBIS), IODE, UNESCO
+    affiliation-url: https://obis.org/ 
+  - name: Tânia Costa
+    affiliation: Universidade Estadual Paulista (Unesp), Biosciences Institute, São Paulo Coast campus
+  - name: Alessandra Augusto
+    affiliation: Universidade Estadual Paulista (Unesp), Biosciences Institute, São Paulo Coast campus
+categories: [Thermal biology, Fiddler crabs, Climate change]
+---
+
+<span class="title-highlight" style="font-size: 30px;">Publications</span>
+
+::: {.project-links}
+
+- [Differential effects of water loss and temperature increase on the physiology of fiddler crabs from distinct habitats](../../publications/2018-04-01-thermal-fiddler-crabs/index.qmd)
+- [Point-of-care testing for measuring haemolymph glucose in invertebrates is not a valid method](../../publications/2019-01-01-glucose/index.qmd)
+
+:::
+
+
+<br>
+
+![](main_image.jpg)

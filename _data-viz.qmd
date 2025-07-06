@@ -1,0 +1,19 @@
+::: {.grid}
+
+::: {.g-col-3 .data-viz-col}
+[eDNA dashboard <span class="material-symbols-outlined" style="font-size: 32px; padding-left: 3px;">dashboard</span>](https://shiny.obis.org/edna-dashboard/)
+:::
+
+::: {.g-col-3 .data-viz-col}
+[MPA Europe range maps <span class="material-symbols-outlined" style="font-size: 32px; padding-left: 3px;">dashboard</span>](https://shiny.obis.org/distmaps)
+:::
+
+::: {.g-col-3 .data-viz-col}
+[OBIS species data sheet <span class="material-symbols-outlined" style="font-size: 32px; padding-left: 3px;">article</span>](https://github.com/iobis/species-report)
+:::
+
+::: {.g-col-3 .data-viz-col}
+[Reef Encounter <span class="material-symbols-outlined" style="font-size: 32px; padding-left: 3px;">full_coverage</span>](https://coralreefs.org/society-publications/reef-encounter/)
+:::
+
+:::

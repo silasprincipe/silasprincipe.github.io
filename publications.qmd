@@ -1,0 +1,16 @@
+---
+title: "Publications"
+subtitle: "You can check all my work on [Google Scholar](https://scholar.google.be/citations?user=WEHb5d0AAAAJ&hl=pt-BR&authuser=1)"
+listing:
+  contents: publications
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

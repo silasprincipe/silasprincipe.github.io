@@ -1,8 +1,24 @@
 /* css styles */
 
+/*
+:root {
+    --bs-navbar-active-color: #ffde59 !important;
+}*/
+
 .nav-link {
     font-weight: 500;
 }
+
+.nav-link:hover {
+    font-weight: 500;
+    color: #ffde59 !important;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #ffde59 !important;
+}
+
+
 
 .super-title {
     font-size: 42px;
@@ -32,6 +48,18 @@
     color: black; 
 }
 
+#main-block a {
+    color: black;
+    font-weight: 600;
+    text-underline-offset: 3px;
+}
+
+#contact-block a {
+    color: black;
+    font-weight: 600;
+    text-underline-offset: 3px;
+}
+
 .navbar-logo {
     max-height: 40px;
 }
@@ -41,7 +69,7 @@
 }
 
 .blog-l-title {
-    font-size: 32px;
+    font-size: 22px;
     font-weight: 700;
     text-decoration: none !important;
 }
@@ -55,38 +83,44 @@
 }
 
 #blog-listing-front a:hover {
-    color: #fce461 !important;
+    color: #5dcad1 !important;
 }
 
 .blog-hr {
-    border-top: 2px solid !important;
+    border-top: 1px solid !important;
     opacity: 1 !important;
+    border-color: rgb(100, 100, 100);
 }
 
 .blog-front-date {
+    margin-top: 4px;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 14px;
+    font-family: DM Mono, monospace;
 }
 
 .blog-category {
-    color: rgb(170, 170, 170);
+    color: #636262;
     border: 0.5px solid !important;
     padding: 2px;
     border-radius: 5px;
     cursor: pointer;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: DM Mono, monospace;
 }
 
 .blog-category:hover {
-    color: #fce461;
+    color: #5dcad1;
 }
 
 .reset-category {
-    color: rgb(170, 170, 170);
+    color: #636262;
     cursor: pointer;
 }
 
 .reset-category:hover {
-    color: #fce461;
+    color: #5dcad1;
 }
 
 .listing-category {
@@ -149,6 +183,14 @@
     font-family: DM Mono, monospace;
 }
 
+.research-top-1 a {
+    font-size: 28px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    font-family: DM Mono, monospace;
+    text-decoration: none;
+}
+
 .research-top-2 {
     padding: 10px;
     position: relative;
@@ -159,4 +201,85 @@
     font-weight: 800;
     color: rgb(255, 255, 255);
     font-family: DM Mono, monospace;
+}
+
+.research-top-2 a {
+    font-size: 28px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    font-family: DM Mono, monospace;
+    text-decoration: none;
+}
+
+.data-viz-col {
+    padding: 10px;
+    min-height: 120px;
+    background-color: #f1f0f0;
+    font-size: 24px;
+    font-family: DM Mono, monospace;
+    font-weight: 500;
+}
+
+.data-viz-col a {
+    font-size: 24px;
+    font-family: DM Mono, monospace;
+    font-weight: 700;
+    text-decoration: none;
+    color: black
+}
+
+.data-viz-col a:hover {
+    font-size: 24px;
+    font-family: DM Mono, monospace;
+    font-weight: 700;
+    text-decoration: none;
+    color: #5dcad1;
+}
+
+.author a {
+    color: black;
+    text-underline-offset: 3px;
+    text-decoration: underline !important;
+}
+
+.affiliation a {
+    color: black;
+    text-underline-offset: 3px;
+    text-decoration: underline !important;
+}
+
+.quarto-appendix-citeas a {
+    color: black;
+    text-underline-offset: 3px;
+    text-decoration: underline !important;
+}
+
+.pub-links a {
+    color: black;
+    font-weight: 700;
+    text-underline-offset: 3px;
+    text-decoration: none !important;
+}
+
+.pub-links a:hover {
+    color: #5dcad1;
+    font-weight: 700;
+    text-underline-offset: 3px;
+    text-decoration: none !important;
+}
+
+.pub-links h3 {
+    margin-bottom: 20px;
+}
+
+#pub-figure {
+    min-height: 180px;
+    padding: 10px;
+    border: solid 1px #dee2e6;
+    margin-bottom: 1em;
+}
+
+.subtitle.lead a {
+    color: black;
+    text-decoration: underline !important;
 }

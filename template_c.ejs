@@ -1,0 +1,28 @@
+```{=html}
+<div style="text-align: right; 
+    display: flex; justify-content: space-between; padding-bottom: 20px;">
+    <a href="publications.qmd" class="reset-category" style="text-decoration: none;">Check all publications</a>
+    <span class="reset-category" onclick="window.quartoListingCategory(''); return false;">Show all categories</span>
+</div>
+<div id="blog-listing-front" class="list">
+<% for (const item of items) { %>
+  <div <%= metadataAttrs(item) %>>
+    <div class="blog-l-title-div">
+        <a href="<%- item.path %>" class="blog-l-title"><%= item.title %></a><br/>
+    </div>
+    <div class="grid">
+        <div class="g-col-6 blog-front-date listing-date">
+            <%= item.date.toUpperCase() %>
+        </div>
+        <div class="g-col-6 listing-category">
+            <!-- <%= item.categories %> -->
+            <% for (const category of item.categories) { %>
+            <span class="blog-category" onclick="window.quartoListingCategory('<%=category%>'); return false;"><%= category %></span>
+            <% } %>
+        </div>
+    </div>
+    <hr class="blog-hr">
+  </div>
+<% } %>
+</div>
+```

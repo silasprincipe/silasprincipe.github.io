@@ -1,0 +1,28 @@
+---
+title: "Coral Reefs"
+description: |
+  Despite being one of the most productive and diverse ecosystems of the world, coral reefs are also one of the most threatened in the Anthropocene. In this project we will use Ecological Niche Modelling techniques to trace and predict the impacts of climate change on keystone species of reef ecosystems in the Atlantic ocean.
+author:
+  - name: Silas C. Principe 
+    orcid: 0000-0002-8059-6304
+    url: https://silasprincipe.github.io/
+    affiliation: Ocean Biodiversity Information System (OBIS), IODE, UNESCO
+    affiliation-url: https://obis.org/ 
+  - name: Tito M.C. Lotufo
+    affiliation: Instituto Oceanográfico, Universidade de São Paulo (USP), Brazil
+  - name: André Acosta
+    affiliation: Instituto de Estudos Avançados, Universidade de São Paulo (USP), Brazil
+categories: [Coral reefs, Climate change, Modelling]
+---
+
+<span class="title-highlight" style="font-size: 30px;">Publications</span>
+
+
+::: {.project-links}
+- [Predicted Shifts in the Distributions of Atlantic Reef-Building Corals in the Face of Climate Change](../../publications/2021-07-19-reef-builders/index.qmd)
+:::
+
+
+<br>
+
+![](main_image.jpg)

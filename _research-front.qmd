@@ -1,0 +1,81 @@
+::: {.grid}
+
+::: {.g-col-3}
+``` {=html}
+<div class="research" style="height: 100%;">
+    <div class="research-top-1">
+        <a href="projects/2024-06-09-range-shifts/index.qmd">Range shifts</a><span class="material-symbols-outlined" style="color: white; font-size: 32px; padding-left: 3px;">arrow_outward</span>
+        <img src="images/research_1.png" width="100%" style="max-width: 200px;">
+    </div>
+</div>
+```
+:::
+
+::: {.g-col-9}
+``` {=html}
+<div class="research">
+    <div>
+        Marine organisms are facing unprecedent challenges due to climate change. Understand how those changes, especially temperaure increase, will affect organisms is essential. In this project we used an intertidal organism, which is in the interface between land and ocean, to study the effects of temperature increase and dessication on the organismal physiology. We compared the effects in two fiddler crab species which inhabits distinct areas of the mangrove (one more exposed to desiccation stress and the other in shadowed areas). We are also employing new techiniques to understand how those organisms deal with thermal control (still ongoing).
+    </div>
+</div>
+```
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-3}
+``` {=html}
+<div class="research" style="height: 100%;">
+    <div class="research-top-2">
+        <a href="projects/2024-06-09-coral-reefs/index.qmd">Coral reefs</a><span class="material-symbols-outlined" style="color: white; font-size: 32px; padding-left: 3px;">arrow_outward</span>
+        <img src="images/research_2.png" width="100%" style="max-width: 200px;">
+    </div>
+</div>
+```
+:::
+
+::: {.g-col-9}
+``` {=html}
+<div class="research">
+    <div>
+        Despite being one of the most productive and diverse ecosystems of the world, coral reefs are also one of the most threatened in the Anthropocene. In this project we will use Ecological Niche Modelling techniques to trace and predict the impacts of climate change on keystone species of reef ecosystems in the Atlantic ocean.
+    </div>
+</div>
+```
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-3}
+``` {=html}
+<div class="research" style="height: 100%;">
+    <div class="research-top-1">
+        <a href="projects/2024-05-05-thermal-biology/index.qmd">Thermal biology</a><span class="material-symbols-outlined" style="color: white; font-size: 32px; padding-left: 3px;">arrow_outward</span>
+        <img src="images/research_3.png" width="100%" style="max-width: 200px;">
+    </div>
+</div>
+```
+:::
+
+::: {.g-col-9}
+``` {=html}
+<div class="research">
+    <div>
+        Marine organisms are facing unprecedented challenges due to climate change. Understand how those changes, especially temperature increase, will affect organisms is essential. In this project we used an intertidal organism, which is in the interface between land and ocean, to study the effects of temperature increase and dessication on the organismal physiology. We compared the effects in two fiddler crab species which inhabits distinct areas of the mangrove (one more exposed to desiccation stress and the other in shadowed areas). We are also employing new techniques to understand how those organisms deal with thermal control.
+    </div>
+</div>
+```
+:::
+
+:::
+
+
+
+
+

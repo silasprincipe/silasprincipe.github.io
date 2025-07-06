@@ -1,0 +1,48 @@
+---
+title: "Development of a conceptual framework for the management of biodiversity and ecosystem services in the Mexican Caribbean"
+description: |
+  Coral reefs and mangroves support rich biodiversity and provide ecosystem services that range from food, recreational benefits and coastal protection services, among others. They are one of the most threatened ecosystems by urbanization processes. In this context, we developed a conceptual framework for the management of biodiversity and ecosystem services for these coastal environments. We based our workflow on two sections: “Information base” and “Governance” and use the Puerto Morelos Coastal region as a case study for coastal protection. Puerto Morelos is between two of the most touristic destinations of Mexico (Playa del Carmen and Cancun) that has experienced an increase of population in the past four decades resulting in an intensification of multiple threats to its ecosystems. We characterized the two ecosystems with a “Management Units” strategy. An expert-based ecosystem services matrix was also described in order to connect mangroves and coral reef ecosystems with the multiple beneficiaries. Then an ecosystem model (conceptual model and Global Biodiversity model) was developed. The conceptual model was useful in understanding the interplay processes between systems regarding the ecosystem service of “Coastal Protection”. The Global Biodiversity model evidenced the human-induced shifts in the biodiversity for mangrove and coral reefs ecosystems. Also, a projection for 2035 of “best” and “worst” scenarios was applied using GLOBIO3. A DPSIR conceptual framework was used to analyze environmental problems regarding ecosystem services maintenance. Finally, we evaluated a set of policies associated with these ecosystems that favor coastal protection integrity. This framework facilitates the identification of the most relevant processes and controls about the provision of coastal protection service. It can also be useful to better target management actions and as a tool to identify future management needs to tackle the challenges preventing more effective conservation of coastal environments.
+author:
+  - name: Andrés Sánchez-Quinto
+    affiliation: Universidad Nacional Autónoma de México, Posgrado en Ciencias del Mar y Limnología, Ciudad de México, México.
+  - name: Julliet Correa da Costa
+    affiliation: Universidade Federal de Santa Catarina, Departamento de Geociências, Laboratório de Gestão Costeira Integrada, Florianópolis, SC, Brasil.
+  - name: Nadia S. Zamboni
+    affiliation: Universidade Federal do Rio Grande do Norte, Departamento de Ecologia, Av. Salgado Filho, s/n, 59078-970, Natal, RN, Brasil.
+  - name: Fábio H. C. Sanches
+    affiliation: Universidade Federal de São Paulo, Instituto do Mar, Laboratório de Ecologia e Gestão Costeira, 11070-100, Santos, SP, Brasil.
+  - name: Silas C. Principe 
+    orcid: 0000-0002-8059-6304
+    url: https://silasprincipe.github.io/
+    affiliation: Laboratório de Biologia Recifal (BIOREC), Instituto Oceanográfico, Universidade de São Paulo (USP), São Paulo, Brazil
+  - name: Evangelina V. Viotto
+    affiliation: Centro de Investigación Científica y de Transferencia Tecnológica a la Producción - Consejo Nacional de Investigaciones Científicas y Técnicas, España 149, Diamante, Entre Ríos, Argentina.
+  - name: Elvira Casagranda
+    affiliation: Universidad Nacional de Tucumán, Instituto de Ecología Regional - Consejo Nacional de Investigaciones Científicas y Técnicas, CC 34, 4107, Yerba Buena, Tucumán, Argentina.
+  - name: Francisco A. da Veiga-Lima
+    affiliation: Universidade Federal de Santa Catarina, Laboratório de Gestão Costeira Integrada, Programa de Pós-Graduação em Oceanografia, Florianópolis, SC, Brasil.
+  - name: Bianca Possamai
+    affiliation: Universidade Federal do Rio Grande, Instituto de Oceanografia, Av. Itália km 8, 96203-900, Rio Grande, RS, Brasil.
+  - name: Larisse Faroni-Perez
+    affiliation: Universidade Federal de Juiz de Fora, Instituto de Ciências Biológicas, Departamento de Biologia, 36036-900, Juiz de Fora, MG, Brasil.
+date: 2020-01-01
+citation: 
+  url: https://doi.org/10.1590/1676-0611-BN-2019-0901
+categories: [Scenario building, Climate Change]
+---
+
+::: {.grid}
+
+::: {.g-col-7}
+::: {.pub-links}
+### Explore more
+
+[<svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 15 15"><path fill="currentColor" d="M2.5 6.5V6H2v.5zm4 0V6H6v.5zm0 4H6v.5h.5zm7-7h.5v-.207l-.146-.147zm-3-3l.354-.354L10.707 0H10.5zM2.5 7h1V6h-1zm.5 4V8.5H2V11zm0-2.5v-2H2v2zm.5-.5h-1v1h1zm.5-.5a.5.5 0 0 1-.5.5v1A1.5 1.5 0 0 0 5 7.5zM3.5 7a.5.5 0 0 1 .5.5h1A1.5 1.5 0 0 0 3.5 6zM6 6.5v4h1v-4zm.5 4.5h1v-1h-1zM9 9.5v-2H8v2zM7.5 6h-1v1h1zM9 7.5A1.5 1.5 0 0 0 7.5 6v1a.5.5 0 0 1 .5.5zM7.5 11A1.5 1.5 0 0 0 9 9.5H8a.5.5 0 0 1-.5.5zM10 6v5h1V6zm.5 1H13V6h-2.5zm0 2H12V8h-1.5zM2 5V1.5H1V5zm11-1.5V5h1V3.5zM2.5 1h8V0h-8zm7.646-.146l3 3l.708-.708l-3-3zM2 1.5a.5.5 0 0 1 .5-.5V0A1.5 1.5 0 0 0 1 1.5zM1 12v1.5h1V12zm1.5 3h10v-1h-10zM14 13.5V12h-1v1.5zM12.5 15a1.5 1.5 0 0 0 1.5-1.5h-1a.5.5 0 0 1-.5.5zM1 13.5A1.5 1.5 0 0 0 2.5 15v-1a.5.5 0 0 1-.5-.5z"/></svg> Publication](https://doi.org/10.1590/1676-0611-BN-2019-0901)
+:::
+:::
+
+::: {.g-col-5 #pub-figure}
+![](framework_fig.jpg)
+:::
+
+:::

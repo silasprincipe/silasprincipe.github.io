@@ -1,0 +1,24 @@
+---
+title: "Range shifts"
+description: |
+  Climate change is causing shifts in the distribution of species, with multiple consequences over ecosystems. Using different modelling techniques I'm trying to understand how those shifts may materialize in the future. I use mainly species distribution models, but also thermal ranges estimation and other spatial methods.
+author:
+  - name: Silas C. Principe 
+    orcid: 0000-0002-8059-6304
+    url: https://silasprincipe.github.io/
+    affiliation: Ocean Biodiversity Information System (OBIS), IODE, UNESCO
+    affiliation-url: https://obis.org/ 
+categories: [Range shifts, Climate change, Modelling]
+---
+
+<span class="title-highlight" style="font-size: 30px;">Research</span>
+
+
+::: {.project-links}
+- [MPA Europe project](https://mpa-europe.eu/)
+:::
+
+
+<br>
+
+![](main_image.jpg)
