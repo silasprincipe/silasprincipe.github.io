@@ -36,6 +36,11 @@
     img.navbar-logo {
         width: 70% !important;
     }
+
+    .navbar-brand {
+        overflow: hidden;
+        text-overflow: clip !important;
+    }
 }
 
 .highlight-yellow {
