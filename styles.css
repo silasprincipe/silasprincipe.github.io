@@ -34,7 +34,7 @@
     }
 
     img.navbar-logo {
-        width: 130px;
+        width: 100% !important;
     }
 }
 
@@ -64,6 +64,12 @@
 }
 
 #contact-block a {
+    color: black;
+    font-weight: 600;
+    text-underline-offset: 3px;
+}
+
+.project-links a {
     color: black;
     font-weight: 600;
     text-underline-offset: 3px;
