@@ -26,7 +26,16 @@
     line-height: 1.2em;
     width: 65%;
     color: black;
-    /*color: #00337C;*/
+}
+
+@media (max-width: 768px) {
+    .super-title {
+        width: 100%;
+    }
+
+    img.navbar-logo {
+        width: 130px;
+    }
 }
 
 .highlight-yellow {

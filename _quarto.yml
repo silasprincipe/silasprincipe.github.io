@@ -12,6 +12,8 @@ website:
         text: Publications
       - href: projects.qmd
         text: Projects
+      - href: index.qmd#contact
+        text: Contact
   search: false
 
 format:

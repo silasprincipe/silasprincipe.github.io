@@ -23,13 +23,13 @@ I'm a <span class="highlight-yellow">marine biologist</span> studying the effect
 
 ::: {.grid id="main-block"}
 
-::: {.g-col-7}
+::: {.g-col-12 .g-col-md-7}
 I'm currently an associate researcher at the [Ocean Biodiversity Information System (OBIS)](https://obis.org/), part of [IODE](https://iode.org/)/[IOC](https://www.ioc.unesco.org/en)/[UNESCO](https://www.unesco.org/en). I contribute to the EU Horizon project [MPA Europe](https://mpa-europe.eu/), where our work package, in collaboration with partners, is generating species distribution models for over 12,000 marine species occurring in European waters. This supports the prioritization analysis that aims to map optimal locations for marine protected areas in Europe.
 
 My research interests focus primarily on how climate change affects ecosystems, with experience in distribution modelling, thermal biology, and ecophysiology. Coding is an integral part of my work: I program mainly in R, but also in Python. Check out my [GitHub repository](http://github.com/silasprincipe).
 :::
 
-::: {.g-col-5}
+::: {.g-col-12 .g-col-md-5}
 <span class="grad-year">2014</span> <span class="grad-sub">BSc Biological Sciences (Marine Biology)</span>
 <span class="grad-text">Universidade Estadual Paulista, Campus do Litoral Paulista. São Paulo, Brazil.</span>
 
@@ -75,9 +75,13 @@ I also like to work on data visualization, having helped to create dashboards, m
 <br><br>
 
 ::: {id="contact-block"}
-<span class="basis-title">Contact</span>
+<h3 class="basis-title">Previous experience</h3>
+
+Prior to working at OBIS, I worked as a laboratory technician at the Universidade Federal de São Carlos, supporting practical classes and managing the zoological collection. During my undergraduate course I also did a [research internship at the School of Ocean Sciences, Bangor University, Wales (UK)](https://bv.fapesp.br/pt/bolsas/138945/efeito-dos-eventos-extremos-de-pluviosidade-sobre-os-parametros-fisiologicos-funcionais-e-populacio/).
+
+<br>
+<h3 class="basis-title">Contact</h3>
 
 You can contact me through **s.principe[at]unesco.org** or find me on [Linkedin](https://www.linkedin.com/in/silas-principe-858551b/).
 
 :::
-<br>

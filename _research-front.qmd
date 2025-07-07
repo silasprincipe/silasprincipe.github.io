@@ -1,6 +1,6 @@
 ::: {.grid}
 
-::: {.g-col-3}
+::: {.g-col-12 .g-col-md-3}
 ``` {=html}
 <div class="research" style="height: 100%;">
     <div class="research-top-1">
@@ -11,7 +11,7 @@
 ```
 :::
 
-::: {.g-col-9}
+::: {.g-col-12 .g-col-md-9}
 ``` {=html}
 <div class="research">
     <div>
@@ -26,7 +26,7 @@
 
 ::: {.grid}
 
-::: {.g-col-3}
+::: {.g-col-12 .g-col-md-3}
 ``` {=html}
 <div class="research" style="height: 100%;">
     <div class="research-top-2">
@@ -37,7 +37,7 @@
 ```
 :::
 
-::: {.g-col-9}
+::: {.g-col-12 .g-col-md-9}
 ``` {=html}
 <div class="research">
     <div>
@@ -52,7 +52,7 @@
 
 ::: {.grid}
 
-::: {.g-col-3}
+::: {.g-col-12 .g-col-md-3}
 ``` {=html}
 <div class="research" style="height: 100%;">
     <div class="research-top-1">
@@ -63,7 +63,7 @@
 ```
 :::
 
-::: {.g-col-9}
+::: {.g-col-12 .g-col-md-9}
 ``` {=html}
 <div class="research">
     <div>
