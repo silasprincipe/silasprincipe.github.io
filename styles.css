@@ -4,6 +4,10 @@
 :root {
     --bs-navbar-active-color: #ffde59 !important;
 }*/
+:root {
+    --primary-color-green: #5dcad1;
+    --primary-color-yellow: #ffde59;
+}
 
 .nav-link {
     font-weight: 500;
@@ -11,11 +15,11 @@
 
 .nav-link:hover {
     font-weight: 500;
-    color: #ffde59 !important;
+    color: var(--primary-color-green) !important;
 }
 
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
-    color: #ffde59 !important;
+    color: var(--primary-color-green) !important;
 }
 
 
@@ -43,8 +47,8 @@
     }
 }
 
-.highlight-yellow {
-    background-color: #ffde59;
+.highlight-main {
+    background-color: var(--primary-color-green);
     padding: 0 5px;
     border-radius: 0px;
 }

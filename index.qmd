@@ -16,7 +16,7 @@ I'm a marine biologist
 -->
 
 ::: {.super-title}
-I'm a <span class="highlight-yellow">marine biologist</span> studying the effects of <span class="highlight-yellow">climate change</span> on<br> species and ecosystems.
+I'm a <span class="highlight-main">marine biologist</span> studying the effects of <span class="highlight-main">climate change</span> on<br> species and ecosystems.
 :::
 
 <br>
