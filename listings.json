@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/2024-06-09-coral-reefs/index.html",
+      "/projects/2024-05-05-thermal-biology/index.html",
+      "/projects/2024-06-09-range-shifts/index.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2025-06-23-scenario-building/index.html",
+      "/publications/2021-07-19-reef-builders/index.html",
+      "/publications/2020-06-24-marine-graduates/index.html",
+      "/publications/2020-01-01-coral-reef-framework/index.html",
+      "/publications/2019-01-01-glucose/index.html",
+      "/publications/2018-04-01-thermal-fiddler-crabs/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/publications/2025-06-23-scenario-building/index.html",
+      "/publications/2021-07-19-reef-builders/index.html",
+      "/publications/2020-06-24-marine-graduates/index.html",
+      "/publications/2020-01-01-coral-reef-framework/index.html",
+      "/publications/2019-01-01-glucose/index.html",
+      "/publications/2018-04-01-thermal-fiddler-crabs/index.html"
+    ]
+  }
+]
